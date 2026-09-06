@@ -30,7 +30,7 @@ model = load_model()
 # Title
 # =========================
 
-st.title("🤖 Data Science Job Chance Prediction")
+st.title("🤖 Data Science Job Change Prediction")
 
 st.write(
     "Enter your details below to predict whether a candidate is likely to look for a new job."
